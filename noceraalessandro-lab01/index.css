@@ -1,0 +1,21 @@
+h1{
+    background-color:blue;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    background-color:rgba(64, 224, 208, 0.39);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#dscr{
+    text-align: center;
+}
+
+hr {
+    color:blue;
+}
