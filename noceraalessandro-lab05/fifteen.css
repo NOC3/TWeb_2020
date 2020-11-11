@@ -1,0 +1,41 @@
+body{
+    font-size: 14pt;
+    font-family: italic;
+    text-align: center;
+}
+
+#puzzlearea{
+    font-size: 40pt;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
+
+#puzzlearea div{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    border: black solid  5px;
+    background-image: url("./background.jpg");  
+}
+    /*top right bottom left*/
+#t_0_0{margin: 0px 0px 0px 0px; }
+#t_0_1{margin: 0px 0px 0px 100px;}
+#t_0_2{margin: 0px 0px 0px 200px;}
+#t_0_3{margin: 0px 0px 0px 300px;}
+
+#t_1_0{margin: 100px 0px 0px 0px;}
+#t_1_1{margin: 100px 0px 0px 100px;}
+#t_1_2{margin: 100px 0px 0px 200px;}
+#t_1_3{margin: 100px 0px 0px 300px;}
+
+#t_2_0{margin: 200px 0px 0px 0px;}
+#t_2_1{margin: 200px 0px 0px 100px;}
+#t_2_2{margin: 200px 0px 0px 200px;}
+#t_2_3{margin: 200px 0px 0px 300px;}
+
+#t_3_0{margin: 300px 0px 0px 0px;}
+#t_3_1{margin: 300px 0px 0px 100px;}
+#t_3_2{margin: 300px 0px 0px 200px;}
+#t_3_3{margin: 300px 0px 0px 300px;}
+
